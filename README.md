@@ -10,7 +10,7 @@
 
 ### Usage
 
-    Lets see whats happens if we have this sample file:
+    Let`s see what happens if we have this sample file:
 
 ```yml
 
@@ -50,9 +50,28 @@
     "screen1.description" = "In friendship diminution instrument so. \n Son sure paid door with say them. Two among sir sorry men court. \n Estimable ye situation suspicion he delighted an happiness discovery. \n Fact are size cold why had part.\n"
 ```
 
-    The first argument is the input file and the rest ar keys if you if want to make your identifier short.
+    The first argument is the input file and the rest are keys if you want to make your identifiers short.
 
 
 ### NOTE 
 
-    Don't use an input file with blanks lines in between your keys. Sometimes it theows an exeption.
+    Don't use an input file with blanks lines in between your keys. Sometimes it throws an exeption. 
+
+```yml
+
+en:
+    screen1:
+        title: "Title"
+
+
+        backBtn: "< back"
+
+
+        loginBtn: "Login"
+
+
+        description: "In friendship diminution instrument so. \n Son sure paid door with say them. Two among sir sorry men court. \n Estimable ye situation suspicion he delighted an happiness discovery. \n Fact are size cold why had part.\n"
+
+```
+
+    This may fail.
