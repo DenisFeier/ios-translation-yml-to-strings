@@ -1,0 +1,17 @@
+{
+  "name": "ios-translation-yml-to-strings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.14.1",
+    "node-yaml": "^4.0.1",
+    "remove-blank-lines": "^1.4.1",
+    "yaml": "^1.10.0"
+  }
+}
