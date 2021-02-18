@@ -1,27 +1,6 @@
 en:
-    digital_scorecards:
-        welcome_screen:
-            log_out: "Log Out"
-            exit_event: "Exit Event"
-            welcome_user: "Hi, "
-            welcome_league: "Welcome to "
-            date: "Date"
-            course: "Course"
-            marker_for: "You are the marker for "
-            marker: "Your marker is "
-            continue: "CONTINUE"
-            loading: "Loading..."
-            choose_players: "You can choose on the next screen the players you want to mark."
-            hole: "Hole"
-            yardage: "Yardage"
-            stroke_index: "Stroke\nIndex"
-            par: "Par"
-            scores: "Scores"
-            notes: "'s\nNotes"
-            waiting_for_marker: "Waiting for marker..."
-            marker_title: "Marker"
-            my_notes:  "My Notes"
-            out: "Out"
-            in: "In"
-            total: "Total"
-            
+            screen1:
+                title: "Title"
+                backBtn: "< back"
+                loginBtn: "Login"
+                description: "In friendship diminution instrument so. \n Son sure paid door with say them. Two among sir sorry men court. \n Estimable ye situation suspicion he delighted an happiness discovery. \n Fact are size cold why had part.\n"
